@@ -1,7 +1,7 @@
 
 
 .fixed-height-section{
-    height: 80vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,7 +9,7 @@
 }
 
 header{
-    background-color: #282A3A;
+    background-color: #474E68;
     color: black;
     position: sticky;
     top:0;
@@ -32,6 +32,8 @@ section{
 section h2{
     color: #fff;
 }
+
+
 
 .carousel-item a {
     color: #fff;
@@ -61,7 +63,7 @@ section h2{
 }
 
 footer{
-    background-color: #282A3A;
+    background-color: #474E68;
     color: #fff;
     text-align: center;
 }
